@@ -12,3 +12,5 @@ The rules of the expert systems depends on the following categories:
 * **Type of mask**: Could be **KN-95**, **Surgical** or **Cloth**. The mask a person wears tells us the level of protection they may have against the virus.
 
 My name is Carlos Abel Polanco Graciano and I'm a software developer but also a student of [Universidad Iberoamericana (UNIBE)](https://www.unibe.edu.do/).
+
+**Note**: The content of the files were made on Spanish.
